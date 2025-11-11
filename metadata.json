@@ -1,0 +1,8 @@
+{
+  "name": "Smart Soil Tester",
+  "description": "An intelligent soil health analyzer for farmers, using Bluetooth (ESP32) and AI to provide crop recommendations, fertilizer advice, and voice assistance in Telugu and English.",
+  "requestFramePermissions": [
+    "bluetooth",
+    "geolocation"
+  ]
+}
